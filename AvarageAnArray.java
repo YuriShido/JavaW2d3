@@ -36,3 +36,10 @@ public class AvarageAnArray {
     return result;
   } 
 }
+// double sum = 0.0;
+//for(double i: array) {
+  // sum += i;
+
+// }
+// avarage = sum/(double) array.length;
+// return average;
